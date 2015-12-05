@@ -1,21 +1,64 @@
-.head{
+.bar{
   box-sizing: border-box;
   border:1px solid black;
   background-color: #333333;
   color: #c1bab5;
   margin: 2vh;
+  margin-left: 5vw;
   float: left;
-  width: 98%;
+  width: 90%;
+  padding: 2vw;
 }
 namey{
   float: left;
+  padding-left: 10.5vw;
+}
+h1 , h3{
+  margin: 0;
 }
 .nBar{
   float: right;
-  padding: 3vw;
+  padding: 1vw;
+  padding-right: 8vw;
+  text-transform:uppercase;
 }
 bton{
-  border: 1px solid black;
   border-collapse: collapse;
-  padding: .5vw;
+  padding: 1vw;
+  float: left;
+  background-color: #232323;
+}
+main{
+  box-sizing: border-box;
+  float: left;
+  display: inline;
+  width: 98%;
+  padding: 5vh;
+  padding-left: 18vw;
+
+}
+.mA{
+  float: left;
+  width:300px;
+  height: 280px;
+  margin-right: 1vw;
+  background-color:#dedede;
+  color:#979797;
+  padding: 1.5vw;
+  padding-top: 5vh;
+  padding-left: 3vw;
+  padding-bottom: 0;
+  font-style: italic;
+}
+.ttl{
+  font-size: 9vh;
+}
+.rmL{
+  float: right;
+  margin-top: 4vh;
+  color: #faa124;
+}
+main2{
+  margin-left: 14vw;
+  float: left;
 }
