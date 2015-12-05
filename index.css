@@ -46,7 +46,6 @@ main{
   width: 98%;
   padding: 5vh;
   padding-left: 13vw;
-  padding-bottom: 10vh;
 
 }
 art{
@@ -57,9 +56,9 @@ art{
   background-color:#dedede;
   color:#979797;
   padding: 1.5vw;
-  padding-top: 5vh;
+  /*padding-top: 5vh;*/
   padding-left: 3vw;
-  padding-bottom: 0;
+  padding-bottom: 2vh;
   font-style: italic;
 }
 .ttl{
@@ -85,7 +84,7 @@ txt{
   word-wrap: normal;
   float: left;
   border: 1px solid #dedede;
-  padding: .5vw;
+  padding: .25vw;
   margin-right: 1vw;
   margin-bottom: 3vh;
 }
